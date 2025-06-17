@@ -2,7 +2,7 @@ package com.workintech.s17d2;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.workintech.s17d2.model.*;
-import com.workintech.s17d2.rest.DeveloperController;
+import com.workintech.s17d2.controller.DeveloperController;
 import com.workintech.s17d2.tax.DeveloperTax;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
